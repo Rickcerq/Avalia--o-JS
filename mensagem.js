@@ -1,0 +1,1 @@
+document.getElementById("colunatabela").innerHTML = obterMensagens()
